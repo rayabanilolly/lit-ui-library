@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "es2019",
+      "DOM",
+      "ES6",
+      "DOM.Iterable",
+      "ScriptHost"
+    ],
+    "target": "es2015",
+    "module": "CommonJS",
+    "jsx": "react",
+    "composite": true,
+    "emitDeclarationOnly": true,
+    "declaration": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "allowSyntheticDefaultImports": true,
+    "strictPropertyInitialization": false,
+    "strict": true,
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "preserveConstEnums": true,
+    "resolveJsonModule": true
+  },
+  "exclude": [
+    "../ui-library/envs/my-custom-lit-env/dist",
+    "../ui-library/envs/my-custom-lit-env/package.json",
+    "../ui-library/envs/my-custom-lit-env/dist"
+  ],
+  "include": [
+    "../ui-library/envs/my-custom-lit-env/**/*",
+    "../ui-library/envs/my-custom-lit-env/**/*.json",
+    "./global-types/**/*"
+  ]
+}

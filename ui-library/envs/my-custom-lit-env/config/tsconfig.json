@@ -1,0 +1,7 @@
+{
+  "extends": "@teambit/react.react-env/config/tsconfig.json",
+  "compilerOptions": {
+    "target": "es2015"
+  },
+  "include": ["**/*", "**/*.json"]
+}

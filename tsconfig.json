@@ -1,0 +1,10 @@
+// bit-generated-typescript-config
+{
+  "extends": "./bit-auto-generated-configs/tsconfig.bit.f3b87b1c18fb9e87952d48c4888ed71964a4999d.json",
+  "compilerOptions": {
+    "typeRoots": [
+      "./bit-auto-generated-configs/global-types",
+      "./node_modules/@types"
+    ]
+  }
+}

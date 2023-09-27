@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "/home/rayabaniloly/.bvm/versions/1.0.0/bit-1.0.0/node_modules/@teambit/react.eslint-config-bit-react/dist/index.js"
+  ],
+  "rules": {},
+  "parserOptions": {
+    "project": "/home/rayabaniloly/works/bit/lit-ui-library/bit-auto-generated-configs/tsconfig.bit.eslint.f3b87b1c18fb9e87952d48c4888ed71964a4999d.json"
+  }
+}

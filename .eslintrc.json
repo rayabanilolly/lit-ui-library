@@ -1,0 +1,6 @@
+// bit-generated-eslint-config
+{
+  "extends": [
+    "./bit-auto-generated-configs/.eslintrc.bit.4d26d95348b0913b70dd54cacdbe8452849b41a8.json"
+  ]
+}
